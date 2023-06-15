@@ -1,0 +1,13 @@
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.csprojAssemblyReference.cache
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.AssemblyInfoInputs.cache
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.AssemblyInfo.cs
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.csproj.CoreCompileInputs.cache
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\bin\Debug\netcoreapp3.1\Noogies.exe
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\bin\Debug\netcoreapp3.1\Noogies.deps.json
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\bin\Debug\netcoreapp3.1\Noogies.runtimeconfig.json
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\bin\Debug\netcoreapp3.1\Noogies.runtimeconfig.dev.json
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\bin\Debug\netcoreapp3.1\Noogies.dll
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\bin\Debug\netcoreapp3.1\Noogies.pdb
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.dll
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.pdb
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.genruntimeconfig.cache
