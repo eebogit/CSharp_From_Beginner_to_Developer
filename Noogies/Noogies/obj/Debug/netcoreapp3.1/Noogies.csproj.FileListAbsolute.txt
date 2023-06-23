@@ -10,5 +10,4 @@ C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\bin\Debug\netcoreapp3.1\Noogi
 C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.dll
 C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.pdb
 C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.genruntimeconfig.cache
-C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.csproj.AssemblyReference.cache
-C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saylock\OneDrive\Projects\Noogies\Noogies\obj\Debug\netcoreapp3.1\Noogies.csprojAssemblyReference.cache

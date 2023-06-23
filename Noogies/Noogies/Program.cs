@@ -4,6 +4,7 @@ namespace Noogies
 {
     using System;
     using System.Threading;
+
     class Program
     {
         static void Main(string[] args)
@@ -15,6 +16,7 @@ namespace Noogies
             int c;
             int d;
             int e;
+            int f = 2;
             string strYesNoAnswer = "";
 
             do
@@ -28,14 +30,30 @@ namespace Noogies
                 Console.WriteLine("====================");
                 c = a + b;
                 e = d - c;
+               
 
                 while (c <= d)
                 {
-                    Console.WriteLine($"Number {c} is {e} less than {d}. \n");
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                    Console.Write($"Number {c} is {e} less than {d}. \n");
                     c++;
                     e--;
-                    Thread.Sleep(500);
+                    if (c % f == 0)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("This number is odd.\n");
+                        Thread.Sleep(250);
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("This number is even.");
+                        Thread.Sleep(250);
+                    }
+                    
+                                        
                 }
+                Console.ForegroundColor = ConsoleColor.Gray;
                 Console.WriteLine("Want to run again?");
                 strYesNoAnswer = Console.ReadLine().ToLower();
                     while(!strYesNoAnswer.Equals("y") && !strYesNoAnswer.Equals("n")) {

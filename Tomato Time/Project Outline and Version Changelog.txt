@@ -1,0 +1,9 @@
+Project: Tomato Time - Customizable Minutes of Focus
+Name: David Saylock
+Date Started: 22Jun23
+Date Finished: ##Xxx##
+
+Objective: a customizable, fully functional application capable of not only counting down a user-configrable amount of time, but also playing a sound once the time has expired if the user so desires.
+
+Versions:
+ 0.01: Functional Console App - Will count down from a user-entered amount of time (in seconds). Proof of concept more than anything, no extrenuous features planned.
